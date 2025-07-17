@@ -26,8 +26,6 @@ I actively contribute to projects focused on computer science education and inno
 
 ## 📈 Stats
 - **GitHub Since:** 2010
-- **Followers:** 105
-
 ---
 
 Feel free to reach out or explore my work!
