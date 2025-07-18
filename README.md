@@ -6,26 +6,13 @@ Welcome to my GitHub profile!
 - **Role:** Assistant Professor of Computer Science
 - **Institution:** [University of Alaska Anchorage](https://www.uaa.alaska.edu/)
 - **Location:** Anchorage, AK, USA
-- **Bio:** I am passionate about teaching, research, and open-source collaboration.
+- **Bio:** I am passionate about distributed computing, undergraduate research, and open-source.
 
-## 🌟 Skills & Interests
-- Computer Science Education
-- Research-driven Development
-- Open Source Advocacy
-
-## 💼 Professional Highlights
-- Faculty member at University of Alaska Anchorage
-- Engaged in innovative computer science research and education
 
 ## 📂 Explore My Work
-I actively contribute to projects focused on computer science education and innovative technology solutions. Check out my repositories for more!
+I actively contribute to projects focused on computer science education and innovative networking solutions. Check out [our repositories](https://github.com/kathiravelulab) for more!
 
 ## 🌐 Connect With Me
 - **Blog:** [pradeeban.github.io](https://pradeeban.github.io/)
-- **GitHub:** [github.com/pradeeban](https://github.com/pradeeban)
-
-## 📈 Stats
-- **GitHub Since:** 2010
----
 
 Feel free to reach out or explore my work!
