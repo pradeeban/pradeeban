@@ -13,6 +13,7 @@ Welcome to my GitHub profile!
 I actively contribute to projects focused on computer science education and innovative networking solutions. Check out [our repositories](https://github.com/kathiravelulab) for more!
 
 ## 🌐 Connect With Me
-- **Blog:** [pradeeban.github.io](https://pradeeban.github.io/)
+- **Website:** [pradeeban.github.io](https://pradeeban.github.io/)
+- **Blog:** [Llovizna](https://kkpradeeban.blogspot.com/)
 
 Feel free to reach out or explore my work!
